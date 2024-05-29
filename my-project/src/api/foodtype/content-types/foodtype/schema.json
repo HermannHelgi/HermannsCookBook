@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "foodtypes",
+  "info": {
+    "singularName": "foodtype",
+    "pluralName": "foodtypes",
+    "displayName": "foodtype",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "FoodDesc": {
+      "type": "blocks"
+    }
+  }
+}
